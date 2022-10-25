@@ -1,12 +1,10 @@
-body { 
+body {
 
-    background-color: crimson;
-    text-align: justify;
-
+    background-color: aquamarine;
+text-align:justify
 }
+ h1 {
 
-h1 { 
-    color: rgb(20, 220, 30);
+    background-color: bisque;
     text-align: center;
-
-}
+ }
